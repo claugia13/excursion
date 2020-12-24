@@ -27,7 +27,7 @@ figcaption {
     font-family: Verdana;
     font-size: 21px;
     color: gray;
-    padding: 8px;
+    padding: 16px;
 }
 
 figure {
@@ -38,3 +38,5 @@ figure {
     color: gray;
     text-align: right;
 }
+
+

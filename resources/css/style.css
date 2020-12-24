@@ -15,3 +15,26 @@ body {
     background-color: black;
     text-align: center;
 }
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+figcaption {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    padding: 8px;
+}
+
+figure {
+    padding: 8px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+}
